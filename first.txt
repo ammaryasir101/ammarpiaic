@@ -2,3 +2,4 @@ This is first file using github
 
 This is second line
 fetch test
+Change through smartgit
